@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: project_ignite_ts
+  annotations:
+    github.com/project-slug: ValberJunior/project_ignite_ts
+spec:
+  type: other
+  lifecycle: unknown
+  owner: admin
